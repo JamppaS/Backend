@@ -44,17 +44,20 @@ namespace Tehtävä2
 
             ActionTest.ProcessEachItem(playerList[86], x => Console.WriteLine("Lambda: Item ID: {0} and Item Level: {1}", x.Id, x.Level));
             Player[] originalTop10 = originalGame.GetTop10Players();
+
             Console.WriteLine("\n\n\nOriginal Game Leaderboards\n\n");
             for (int i = 0; i < originalTop10.Length; i++)
             {
                 Console.WriteLine((i+1) + ". " + originalTop10[i].Id + "   Score: " + originalTop10[i].Score);
             }
             PlayerForAnotherGame[] ripoffTop10 =  ripOffGame.GetTop10Players();
+
             Console.WriteLine("\n\n\nRip-Off Game Leaderboards\n\n");
             for (int i = 0; i < ripoffTop10.Length; i++)
             {
                 Console.WriteLine((i + 1) + ". " + ripoffTop10[i].Id + "   Score: " + ripoffTop10[i].Score);
             }
+
             Console.ReadKey();
 
 
