@@ -1,0 +1,7 @@
+F:\Vsillan\Teht2\Tehtävä2\bin\Debug\Tehtävä2.exe.config
+F:\Vsillan\Teht2\Tehtävä2\bin\Debug\Tehtävä2.exe
+F:\Vsillan\Teht2\Tehtävä2\bin\Debug\Tehtävä2.pdb
+F:\Vsillan\Teht2\Tehtävä2\obj\Debug\Tehtävä2.csprojAssemblyReference.cache
+F:\Vsillan\Teht2\Tehtävä2\obj\Debug\Tehtävä2.csproj.CoreCompileInputs.cache
+F:\Vsillan\Teht2\Tehtävä2\obj\Debug\Tehtävä2.exe
+F:\Vsillan\Teht2\Tehtävä2\obj\Debug\Tehtävä2.pdb

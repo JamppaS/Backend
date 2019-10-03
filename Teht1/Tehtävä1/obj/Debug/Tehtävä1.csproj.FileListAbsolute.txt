@@ -1,0 +1,11 @@
+F:\Vsillan\Teht1\Tehtävä1\obj\Debug\Tehtävä1.csprojAssemblyReference.cache
+F:\Vsillan\Teht1\Tehtävä1\obj\Debug\Tehtävä1.csproj.CoreCompileInputs.cache
+F:\Vsillan\Teht1\Tehtävä1\bin\Debug\Tehtävä1.exe.config
+F:\Vsillan\Teht1\Tehtävä1\bin\Debug\Tehtävä1.exe
+F:\Vsillan\Teht1\Tehtävä1\bin\Debug\Tehtävä1.pdb
+F:\Vsillan\Teht1\Tehtävä1\obj\Debug\Tehtävä1.exe
+F:\Vsillan\Teht1\Tehtävä1\obj\Debug\Tehtävä1.pdb
+F:\Vsillan\Teht1\Tehtävä1\bin\Debug\Newtonsoft.Json.dll
+F:\Vsillan\Teht1\Tehtävä1\bin\Debug\Newtonsoft.Json.xml
+F:\Vsillan\Teht1\Tehtävä1\obj\Debug\Tehtävä1.csproj.CopyComplete
+F:\Vsillan\Teht1\Tehtävä1\bin\Debug\bikedata.txt
