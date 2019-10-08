@@ -9,3 +9,14 @@ F:\Vsillan\Teht1\Tehtävä1\bin\Debug\Newtonsoft.Json.dll
 F:\Vsillan\Teht1\Tehtävä1\bin\Debug\Newtonsoft.Json.xml
 F:\Vsillan\Teht1\Tehtävä1\obj\Debug\Tehtävä1.csproj.CopyComplete
 F:\Vsillan\Teht1\Tehtävä1\bin\Debug\bikedata.txt
+F:\VsillanRepo\Teht1\Tehtävä1\bin\Debug\bikedata.txt
+F:\VsillanRepo\Teht1\Tehtävä1\bin\Debug\Tehtävä1.exe.config
+F:\VsillanRepo\Teht1\Tehtävä1\bin\Debug\Tehtävä1.exe
+F:\VsillanRepo\Teht1\Tehtävä1\bin\Debug\Tehtävä1.pdb
+F:\VsillanRepo\Teht1\Tehtävä1\bin\Debug\Newtonsoft.Json.dll
+F:\VsillanRepo\Teht1\Tehtävä1\bin\Debug\Newtonsoft.Json.xml
+F:\VsillanRepo\Teht1\Tehtävä1\obj\Debug\Tehtävä1.csprojAssemblyReference.cache
+F:\VsillanRepo\Teht1\Tehtävä1\obj\Debug\Tehtävä1.csproj.CoreCompileInputs.cache
+F:\VsillanRepo\Teht1\Tehtävä1\obj\Debug\Tehtävä1.csproj.CopyComplete
+F:\VsillanRepo\Teht1\Tehtävä1\obj\Debug\Tehtävä1.exe
+F:\VsillanRepo\Teht1\Tehtävä1\obj\Debug\Tehtävä1.pdb

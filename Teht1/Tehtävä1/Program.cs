@@ -94,7 +94,7 @@ namespace Tehtävä1
             System.Net.Http.HttpClient _HttpClient = new System.Net.Http.HttpClient();
             string jsonObj = await _HttpClient.GetStringAsync("http://api.digitransit.fi/routing/v1/routers/hsl/bike_rental");
             station = JsonConvert.DeserializeObject<BikeRentalStationList>(jsonObj);
-            
+
             foreach (StationValues item in station.stations)
             {
                 if (item.name.ToLower() == stationName.ToLower())
