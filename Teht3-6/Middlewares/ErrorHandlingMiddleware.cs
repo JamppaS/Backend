@@ -33,6 +33,11 @@ namespace gamewebapi.Middlewares
                 context.Response.StatusCode = 400;
                 await context.Response.WriteAsync("Player isn't high enough leveled to obtain a sword");
             }
+            catch(UserIsBannedException)
+            {
+                context.Response.StatusCode = 403;
+                await context.Response.WriteAsync("User is banned");
+            }
 	    }
     }
 }

@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Koulu\\AdminGameWebApi\\gamewebapi.csproj": {}
+    "F:\\VsillanRepo\\Teht3-6\\gamewebapi.csproj": {}
   },
   "projects": {
-    "C:\\Koulu\\AdminGameWebApi\\gamewebapi.csproj": {
+    "F:\\VsillanRepo\\Teht3-6\\gamewebapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Koulu\\AdminGameWebApi\\gamewebapi.csproj",
+        "projectUniqueName": "F:\\VsillanRepo\\Teht3-6\\gamewebapi.csproj",
         "projectName": "gamewebapi",
-        "projectPath": "C:\\Koulu\\AdminGameWebApi\\gamewebapi.csproj",
-        "packagesPath": "C:\\Users\\Mörkö\\.nuget\\packages\\",
-        "outputPath": "C:\\Koulu\\AdminGameWebApi\\obj\\",
+        "projectPath": "F:\\VsillanRepo\\Teht3-6\\gamewebapi.csproj",
+        "packagesPath": "C:\\Users\\Seanjean\\.nuget\\packages\\",
+        "outputPath": "F:\\VsillanRepo\\Teht3-6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mörkö\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Seanjean\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -70,16 +68,10 @@
             }
           },
           "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
+            "net461"
           ],
           "assetTargetFallback": true,
-          "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100-preview8-013656\\RuntimeIdentifierGraph.json"
+          "warn": true
         }
       }
     }

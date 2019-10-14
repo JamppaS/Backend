@@ -27,3 +27,17 @@ C:\Koulu\GameWebApi\obj\Debug\netcoreapp2.2\gamewebapi.AssemblyInfo.cs
 C:\Koulu\GameWebApi\obj\Debug\netcoreapp2.2\gamewebapi.RazorTargetAssemblyInfo.cache
 C:\Koulu\GameWebApi\obj\Debug\netcoreapp2.2\gamewebapi.dll
 C:\Koulu\GameWebApi\obj\Debug\netcoreapp2.2\gamewebapi.pdb
+F:\VsillanRepo\Teht3-6\obj\Debug\netcoreapp2.2\gamewebapi.csprojAssemblyReference.cache
+F:\VsillanRepo\Teht3-6\obj\Debug\netcoreapp2.2\gamewebapi.csproj.CoreCompileInputs.cache
+F:\VsillanRepo\Teht3-6\obj\Debug\netcoreapp2.2\gamewebapi.RazorAssemblyInfo.cache
+F:\VsillanRepo\Teht3-6\obj\Debug\netcoreapp2.2\gamewebapi.RazorAssemblyInfo.cs
+F:\VsillanRepo\Teht3-6\obj\Debug\netcoreapp2.2\gamewebapi.AssemblyInfoInputs.cache
+F:\VsillanRepo\Teht3-6\obj\Debug\netcoreapp2.2\gamewebapi.AssemblyInfo.cs
+F:\VsillanRepo\Teht3-6\obj\Debug\netcoreapp2.2\gamewebapi.dll
+F:\VsillanRepo\Teht3-6\obj\Debug\netcoreapp2.2\gamewebapi.pdb
+F:\VsillanRepo\Teht3-6\bin\Debug\netcoreapp2.2\gamewebapi.deps.json
+F:\VsillanRepo\Teht3-6\bin\Debug\netcoreapp2.2\gamewebapi.runtimeconfig.json
+F:\VsillanRepo\Teht3-6\bin\Debug\netcoreapp2.2\gamewebapi.runtimeconfig.dev.json
+F:\VsillanRepo\Teht3-6\bin\Debug\netcoreapp2.2\gamewebapi.dll
+F:\VsillanRepo\Teht3-6\bin\Debug\netcoreapp2.2\gamewebapi.pdb
+F:\VsillanRepo\Teht3-6\obj\Debug\netcoreapp2.2\gamewebapi.RazorTargetAssemblyInfo.cache

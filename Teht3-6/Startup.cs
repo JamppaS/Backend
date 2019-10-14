@@ -37,14 +37,16 @@ namespace gamewebapi
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
+                FileRepository.database = "game_dev.txt";
             }
-            else
+            else if (env.IsProduction())
             {
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
+                FileRepository.database = "game_prod.txt";
             }
             app.UseMiddleware<ErrorHandlingMiddleware>();
-            
+
             app.UseMvc();
         }
     }
